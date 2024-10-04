@@ -19,6 +19,6 @@ entries:
       url: https://github.com/nats-io
     name: nats
     urls:
-    - https://github.com/renaudhager/nats-1.2.6.tgz
+    - https://renaudhager.github.io/nats-1.2.6.tgz
     version: 1.2.6
 generated: "2024-10-04T12:52:24.285675+01:00"
